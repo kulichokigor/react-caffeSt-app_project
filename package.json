@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage":"https://kulichokigor.github.io/react-caffeSt-app_project",
-  
+
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "rm -rf build && react-scripts build index.html --public-url /cafe-project",
+    "build": "rm -rf build && react-scripts build index.html --public-url /react-caffeSt-app_project",
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
