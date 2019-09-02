@@ -1,0 +1,7 @@
+.anim-appear {
+    opacity: 0.01;
+}
+.anim-appear.anim-appear-active{
+    opacity: 2;
+    transition: opacity 3s ease-in;
+}

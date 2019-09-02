@@ -3,6 +3,7 @@ import '../src/css/App.css';
 import 'normalize.css';
 import logo from '../src/img/logo.png';
 import Slider from '../src/components/slider';
+import ProductsBlock from '../src/components/third_block_home'
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebookSquare, faViber, faInstagram } from '@fortawesome/free-brands-svg-icons'
@@ -75,26 +76,7 @@ class App extends React.Component{
                 </div>
               </div>
             </section>
-            <section>
-              <div className="section-main-logo">
-              <h2>the third block</h2>
-                <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>
-              </div>
-              <div className="third-section-box">
-                <div>
-                      <p>diffrent locations</p>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div>
-                <div>
-                      <p>fresh products</p>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div>
-                <div>
-                      <p>the best from the beggining</p>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div>
-              </div>
-            </section>
+            <ProductsBlock/>
           </div>
         </main>
         <footer>
