@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0e94fa655273b1ba502a4a7969c447e",
+    "revision": "26283b3d1dea9105c6bf4323e47974e9",
     "url": "/react-caffeSt-app_project/index.html"
   },
   {
-    "revision": "8f6bbef3d32e1c8672c8",
-    "url": "/react-caffeSt-app_project/static/css/2.9b2a9837.chunk.css"
+    "revision": "79fa3bc9999f47ae4f4f",
+    "url": "/react-caffeSt-app_project/static/css/2.db5b1de2.chunk.css"
   },
   {
-    "revision": "f8cf17b6e2f0654322e8",
-    "url": "/react-caffeSt-app_project/static/css/main.35cfa524.chunk.css"
+    "revision": "a36b043206c0763ea44d",
+    "url": "/react-caffeSt-app_project/static/css/main.b6a68398.chunk.css"
   },
   {
-    "revision": "8f6bbef3d32e1c8672c8",
-    "url": "/react-caffeSt-app_project/static/js/2.9598b118.chunk.js"
+    "revision": "79fa3bc9999f47ae4f4f",
+    "url": "/react-caffeSt-app_project/static/js/2.2f68ad77.chunk.js"
   },
   {
-    "revision": "f8cf17b6e2f0654322e8",
-    "url": "/react-caffeSt-app_project/static/js/main.ecb3b7a4.chunk.js"
+    "revision": "a36b043206c0763ea44d",
+    "url": "/react-caffeSt-app_project/static/js/main.2fa32b4f.chunk.js"
   },
   {
     "revision": "a1e3acaf60dba43130b5",

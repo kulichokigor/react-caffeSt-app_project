@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-caffeSt-app_project/static/css/main.35cfa524.chunk.css",
-    "main.js": "/react-caffeSt-app_project/static/js/main.ecb3b7a4.chunk.js",
-    "main.js.map": "/react-caffeSt-app_project/static/js/main.ecb3b7a4.chunk.js.map",
+    "main.css": "/react-caffeSt-app_project/static/css/main.b6a68398.chunk.css",
+    "main.js": "/react-caffeSt-app_project/static/js/main.2fa32b4f.chunk.js",
+    "main.js.map": "/react-caffeSt-app_project/static/js/main.2fa32b4f.chunk.js.map",
     "runtime~main.js": "/react-caffeSt-app_project/static/js/runtime~main.9ae12ecf.js",
     "runtime~main.js.map": "/react-caffeSt-app_project/static/js/runtime~main.9ae12ecf.js.map",
-    "static/css/2.9b2a9837.chunk.css": "/react-caffeSt-app_project/static/css/2.9b2a9837.chunk.css",
-    "static/js/2.9598b118.chunk.js": "/react-caffeSt-app_project/static/js/2.9598b118.chunk.js",
-    "static/js/2.9598b118.chunk.js.map": "/react-caffeSt-app_project/static/js/2.9598b118.chunk.js.map",
+    "static/css/2.db5b1de2.chunk.css": "/react-caffeSt-app_project/static/css/2.db5b1de2.chunk.css",
+    "static/js/2.2f68ad77.chunk.js": "/react-caffeSt-app_project/static/js/2.2f68ad77.chunk.js",
+    "static/js/2.2f68ad77.chunk.js.map": "/react-caffeSt-app_project/static/js/2.2f68ad77.chunk.js.map",
     "index.html": "/react-caffeSt-app_project/index.html",
-    "precache-manifest.07b24e755863738ec5efc53c378673ea.js": "/react-caffeSt-app_project/precache-manifest.07b24e755863738ec5efc53c378673ea.js",
+    "precache-manifest.c794a312ecc73656ff369dd5dbf4bc37.js": "/react-caffeSt-app_project/precache-manifest.c794a312ecc73656ff369dd5dbf4bc37.js",
     "service-worker.js": "/react-caffeSt-app_project/service-worker.js",
-    "static/css/2.9b2a9837.chunk.css.map": "/react-caffeSt-app_project/static/css/2.9b2a9837.chunk.css.map",
-    "static/css/main.35cfa524.chunk.css.map": "/react-caffeSt-app_project/static/css/main.35cfa524.chunk.css.map",
+    "static/css/2.db5b1de2.chunk.css.map": "/react-caffeSt-app_project/static/css/2.db5b1de2.chunk.css.map",
+    "static/css/main.b6a68398.chunk.css.map": "/react-caffeSt-app_project/static/css/main.b6a68398.chunk.css.map",
     "static/media/banner-1.jpg": "/react-caffeSt-app_project/static/media/banner-1.7d67eeae.jpg",
     "static/media/banner-3.jpg": "/react-caffeSt-app_project/static/media/banner-3.d2c9e328.jpg",
-    "static/media/App.css": "/react-caffeSt-app_project/static/media/smothies.4d301b7d.jpg",
+    "static/media/home-page.css": "/react-caffeSt-app_project/static/media/smothies.4d301b7d.jpg",
     "static/media/buffet-image2.jpg": "/react-caffeSt-app_project/static/media/buffet-image2.e9c9a193.jpg"
   }
 }
