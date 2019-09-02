@@ -1,37 +1,21 @@
 import React from "react";
-import ReactCSSTransitionGroup from 'react-addons-css-transition-group'
-import "../css/third_block_home.css"
+import "../css/third_block_home.css";
+import Headers from '../components/headers_transform';
 
-class Test extends React.Component{
-    constructor(props) {
-        super(props);
-        this.add = this.add.bind(this);
-        this.handleChange = this.handleChange.bind(this);
-        this.state = {
-          data: [],
-          name:''
-        };
+class ProductsBlock extends React.Component{
+  constructor(props){
+      super(props);
+      this.state = {
+          headers:'the third block',
       }
-      handleChange(e){
-        this.setState({name:e.target.value})
-    }
-    add(){
-        var arr = this.state.data.slice();
-        arr.push({'id':(new Date()).getTime(),'name':this.state.name})
-        this.setState({data:arr})
-    }
+  }
     render(){
         return(
-            <div>
+            <section>
                 <div className="section-main-logo">
-                <ReactCSSTransitionGroup
-                    transitionName="anim"
-                    transitionAppear={true}
-                    transitionAppearTimeout={3000}
-                    transitionEnter={false}
-                    transitionLeave={false}>
-                        <h2>{'the third block'}</h2>
-                </ReactCSSTransitionGroup>
+                    <Headers
+                        headers={this.state.headers}
+                    />
                         <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>
                     </div>
                 <div className="third-section-box">
@@ -48,8 +32,8 @@ class Test extends React.Component{
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     </div>
               </div> 
-            </div>
+            </section>
         )
     }
 }
-export default Test
+export default ProductsBlock
