@@ -9,9 +9,12 @@ class ProductsBlock extends React.Component{
           headers:'the third block',
       }
   }
+  ClickedBox =()=>{
+    
+  }
     render(){
         return(
-            <section>
+            <section className="box-third-block">
                 <div className="section-main-logo">
                     <Headers
                         headers={this.state.headers}
