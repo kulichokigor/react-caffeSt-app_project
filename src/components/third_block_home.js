@@ -1,6 +1,6 @@
 import React from "react";
 import "../css/third_block_home.css";
-import Headers from '../components/headers_transform';
+import Headers from '../components/header_components/title_transform';
 
 class ProductsBlock extends React.Component{
   constructor(props){

@@ -1,0 +1,48 @@
+.pos-rel{
+    position: relative;
+  }
+  header{
+    width: auto;
+  }
+  .conteiner{
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 1px;
+  }
+  .top-header{
+    display: flex;
+    justify-content: space-between;
+  }
+  .main-logo{
+    width:125px;
+    height: 35px;
+    margin: 40px 0px 40px 1px;
+  }
+  .main-logo::after{
+    content: 'Buffet';
+    display: block;
+    position: absolute;
+    top: 6px;
+    left:58px;
+    font-weight: bold;
+    font-size: 24px;
+  }
+  .main-logo img{
+    top: 0;
+    left: 9px;
+    position: absolute;
+  }
+  nav{
+    margin:40px 9px 40px 0;
+    width: 422px;
+  }
+  nav ul{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+  }
+  nav ul li{
+    display:inline-block;
+    font-weight: bold;
+    font-size: 16px;
+  }

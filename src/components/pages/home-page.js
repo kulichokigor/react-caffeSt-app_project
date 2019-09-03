@@ -1,10 +1,12 @@
 import React from 'react';
-import '../css/home-page.css';
-import '../css/normalize.css';
-import logo from '../img/logo.png';
-import Slider from '../components/slider';
-import ProductsBlock from '../components/third_block_home';
-import Headers from '../components/headers_transform';
+import '../../css/home-page.css';
+import '../../css/normalize.css';
+import logo from '../../img/logo.png';
+import Slider from '../../components/header_components/slider';
+import ProductsBlock from '../../components/third_block_home';
+import TitleH from '../../components/header_components/title_transform';
+import Header from '../header_components/header'
+
 
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -17,30 +19,18 @@ export default (props)=>{
     return(
         <div className="site-body">
         <header>
-          <div className="conteiner">
-            <div className="top-header">
-              <div className="main-logo pos-rel">
-                <img src={logo} width="36" height="36" alt="Our logo"/>
-              </div>
-              <nav>
-                <ul>
-                  <li>About</li>
-                  <li>Menu</li>
-                  <li>Gallery</li>
-                  <li>Contact</li>
-                </ul>
-              </nav>
-            </div>
+          
+            <Header style={{background:'#151b29', color:'#f6f6f8'}}/>
+            
             <div>
                 <Slider/>
             </div>
-          </div>
         </header>
         <main>
           <div className="conteiner">
             <section>
               <div className="section-main-logo">
-                  <Headers 
+                  <TitleH 
                     headers={headers[0]}
                   />
                 <span>Музика під час обіду - це образа і для кухаря, і для скрипаля</span>
@@ -66,7 +56,7 @@ export default (props)=>{
                 </div>
             </section>
             <section>
-                <Headers 
+                <TitleH 
                     headersThree={headers[1]}
                   />
               <div className="details-box">

@@ -1,5 +1,6 @@
 import React from 'react';
-import Home from './components/home-page'
+import Home from './components/pages/home-page';
+// import MenuDay from './components/pages/menu_day_buffet'
 
 class App extends React.Component{
 
@@ -7,6 +8,7 @@ class App extends React.Component{
     return(
     <div>
       <Home/>
+      {/* <MenuDay/> */}
     </div>
     )
   }

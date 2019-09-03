@@ -25,3 +25,8 @@
 .carousel .thumbs-wrapper{
     margin: 0;
 }
+.conteiner{
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 1px;
+  }

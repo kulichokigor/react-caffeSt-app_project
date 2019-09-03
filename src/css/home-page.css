@@ -4,55 +4,13 @@
   font-family: 'Montserrat', sans-serif;
   background-color: #f6f6f8;
 }
-.pos-rel{
-  position: relative;
-}
 header{
-  width: auto;
   background: #151b29;
-  color:#fff;
 }
 .conteiner{
   max-width: 1170px;
   margin: 0 auto;
   padding: 1px;
-}
-.top-header{
-  display: flex;
-  justify-content: space-between;
-}
-.main-logo{
-  width:125px;
-  height: 35px;
-  margin: 40px 0px 40px 1px;
-}
-.main-logo::after{
-  content: 'Buffet';
-  display: block;
-  position: absolute;
-  top: 6px;
-  left:58px;
-  font-weight: bold;
-  font-size: 24px;
-}
-.main-logo img{
-  top: 0;
-  left: 9px;
-  position: absolute;
-}
-nav{
-  margin:40px 9px 40px 0;
-  width: 422px;
-}
-nav ul{
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: space-between;
-}
-nav ul li{
-  display:inline-block;
-  font-weight: bold;
-  font-size: 16px;
 }
 /*!--main--*/
 .section-main-logo{
@@ -61,14 +19,6 @@ nav ul li{
   height: 200px;
   margin: auto;
   padding:110px 0 0 0;
-}
-h2{
-  text-transform: uppercase;
-  text-align: center;
-  font-weight: bold;
-  font-size: 40px;
-  margin:0;
-  color: #151b28;
 }
 .section-main-logo span{
   text-align: center;
@@ -175,18 +125,7 @@ main .conteiner{
 }
 
 /*!--section_details--*/
-main .conteiner section:nth-child(3) h3{
-  color: #d89b64;
-  font-weight: bold;
-  font-size: 18px;
-  text-transform: uppercase;
-  border-bottom: 1px solid #d89b64;
-  display: block;
-  line-height: 50px;
-  text-align: center;
-  width:250px;
-  margin: 90px auto;
-}
+
 .details-box{
   background: url(../img/order_backgr.jpg)no-repeat center;
   background-size: cover;
