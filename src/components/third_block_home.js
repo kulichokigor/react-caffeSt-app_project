@@ -1,6 +1,6 @@
 import React from "react";
 import "../css/third_block_home.css";
-import Headers from '../components/header_components/title_transform';
+import TitleH from '../components/header_components/title_transform';
 
 class ProductsBlock extends React.Component{
   constructor(props){
@@ -16,7 +16,7 @@ class ProductsBlock extends React.Component{
         return(
             <section className="box-third-block">
                 <div className="section-main-logo">
-                    <Headers
+                    <TitleH
                         headers={this.state.headers}
                     />
                         <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>

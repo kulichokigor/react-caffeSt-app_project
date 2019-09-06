@@ -1,16 +1,12 @@
 import React from 'react';
 import '../../css/home-page.css';
 import '../../css/normalize.css';
-import logo from '../../img/logo.png';
+import Footer from '../../components/footer_component/footer_component';
 import Slider from '../../components/header_components/slider';
 import ProductsBlock from '../../components/third_block_home';
 import TitleH from '../../components/header_components/title_transform';
 import Header from '../header_components/header'
 
-
-
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFacebookSquare, faViber, faInstagram } from '@fortawesome/free-brands-svg-icons';
 
 
 const headers = ['вдосконалення', 'check other offers'];
@@ -72,21 +68,7 @@ export default (props)=>{
             <ProductsBlock/>
           </div>
         </main>
-        <footer>
-          <div className="conteiner pos-rel">
-            <div className="footer-logo-box">
-              <img src={logo} alt="Buffet Cafe logo"/>
-            </div>
-            <div className="copyright">
-              <p>Buffet Cafe</p>
-              <p>Copyright 2019 MrJingls. All rights reserved</p></div>
-            <div className="social-footer-box">
-              <FontAwesomeIcon icon={faFacebookSquare} size="2x" className="social-facebook"/>
-              <FontAwesomeIcon icon={faViber} size="2x" className="social-viber"/>
-              <FontAwesomeIcon icon={faInstagram} size="2x" className="social-insta"/>
-              </div>
-          </div>
-        </footer>
+        <Footer/>
       </div>
     )
 }

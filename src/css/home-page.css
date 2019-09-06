@@ -1,9 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600,700,800,900&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600i,700i&display=swap');
-.site-body{
-  font-family: 'Montserrat', sans-serif;
-  background-color: #f6f6f8;
-}
+
 header{
   background: #151b29;
 }
@@ -180,50 +175,4 @@ input[type="button"]{
 /*!--third-section in components css--*/
 
 
-/*!--footer--*/
-footer{
-  border-top:1px solid #e6e6e6;
-  margin-top: 160px; 
-}
-.footer-logo-box{
-  position: absolute;
-  top:-24%;
-  left: 44.8%;
-  background: #f6f6f8;
-  border: 1px solid #e6e6e6;
-  padding: 20px;
-  border-radius: 50%;
-  line-height: 5px;
-}
-.copyright p:first-child{
-  font-weight: bold;
-  font-size: 18px;
-  text-align: center;
-  margin: 100px 0 20px 0;
-}
-.copyright p:last-child{
-  color:#9498a4;
-  text-align: center;
-  font-family: 'Crimson Text', serif;
-  font-size: 18px;
-  font-weight: 400;
-  font-style: italic;
-  margin-bottom: 25px;
-}
-.social-footer-box{
-  border-top:1px solid #9498a4;
-  width:156px;
-  margin: auto;
-  padding: 32px 0;
-  display: flex;
-  justify-content: space-around;
-}
-.social-facebook{
-  color: #3F51B5;
-}
-.social-viber{
-  color: #673AB7;
-}
-.social-insta{
-  color: #d89b64;
-}
+/*!--footer--components css*/

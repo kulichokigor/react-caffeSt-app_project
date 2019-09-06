@@ -1,4 +1,5 @@
 import React from "react";
+import {NavLink} from 'react-router-dom';
 import '../../css/style-side/header-style/header.css'
 import logo from '../../img/logo.png';
 
@@ -9,13 +10,18 @@ export default (props)=>{
         <header style={props.style}>
           <div className="conteiner">
             <div className="top-header">
-              <div className="main-logo pos-rel">
+            <NavLink to="/" style={{color:'#f6f6f8'}}><div className="main-logo pos-rel">
                 <img src={logo} width="36" height="36" alt="Our logo"/>
               </div>
+            </NavLink>
               <nav>
                 <ul>
                   <li>About</li>
-                  <li>Menu</li>
+                  <li>
+                    <NavLink 
+                      style={{textDecoration:'none', color:'#f6f6f8'}} 
+                      to="/furshet"
+                    >Menu</NavLink></li>
                   <li>Gallery</li>
                   <li>Contact</li>
                 </ul>

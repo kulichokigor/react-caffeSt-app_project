@@ -1,0 +1,89 @@
+article{
+    width: 700px;
+    height: 400px;
+    margin: 45px auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top:50px;
+    -webkit-box-shadow: 0px 0px 16px -2px rgba(0,0,0,0.83); 
+    box-shadow: 0px 0px 16px -2px rgba(0,0,0,0.83);
+}
+
+article div:first-child{
+    width:50%;
+}
+article div:last-child{
+    width:50%;
+}
+article div:last-child div{
+    width: 100%;
+    text-align: center;
+}
+.title-box{
+    width: auto;
+    height: 40.3%;
+    padding: 15px 0;
+}
+.title-box div{
+    line-height: 35px;
+}
+.title-box div p:nth-child(1){
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 0;
+    color:#151b29;
+}
+.title-box div p:nth-child(2){
+   border-bottom: 1px solid #e6e6e6;
+   width: 50px;
+   margin: 15px auto;
+}
+.title-box div p:nth-child(3){
+    font-size: 10px;
+    font-weight: bold;
+    color: #4a4f5b;
+    font-style: italic;
+}
+.components-box{
+    width: 100%;
+    text-align: center;
+    height: 25%;
+}
+.components-box div{
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row nowrap;
+}
+.components-box p:nth-child(1){
+    font-size: 15px;
+    font-weight: bold;
+    margin: 5px 0 5px 5px;
+    color:#151b29;
+}
+.components-box p:nth-child(2){
+    font-size: 15px;
+    margin: 5px 5px 5px 25px;
+    text-align: start;
+    color: #4a4f5b
+}
+.price-box{
+    width: 100%;
+    text-align: center;
+    height: 25%;
+}
+.price-box div{
+    display: flex;
+    justify-content: space-between;
+    flex-flow: column nowrap;
+}
+.price-box div p:first-child{
+    font-weight: bold;
+    font-size: 30px;
+    color:#829c2c;
+    margin-bottom: 0;
+}
+.price-box div p:last-child{
+    font-size: 12px;
+    font-style: italic;
+    color:#4a4f5b;
+}

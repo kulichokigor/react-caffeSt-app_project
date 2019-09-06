@@ -1,0 +1,21 @@
+.admin-block-1{
+    margin: 5px auto;
+    padding:1px;
+    width: 600px;
+}
+h4{
+    text-align: center;
+    font-weight: bold;
+    text-decoration-line: underline;
+    text-decoration-color: #d89b64;
+    color: #d89b64;
+}
+input[type="number"]{
+    margin: 5px auto;
+    display: block;
+    width: 110px;
+}
+button{
+    margin: 15px auto;
+    display: block;
+}

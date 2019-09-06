@@ -5,7 +5,7 @@ const styleTitleH2 = {
     textTransform: 'uppercase',
     textAlign: 'center',
     fontWeight: 'bold',
-    fontSize: '40px',
+    fontSize: '35px',
     margin:'0',
     color: '#151b28',
 }
