@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e7553060d83ab29b78f56d8c3217548",
+    "revision": "ee9c134b2e9d88daee73050df06aa5f0",
     "url": "/react-caffeSt-app_project/index.html"
   },
   {
-    "revision": "79fa3bc9999f47ae4f4f",
-    "url": "/react-caffeSt-app_project/static/css/2.db5b1de2.chunk.css"
+    "revision": "92777537290e976a8210",
+    "url": "/react-caffeSt-app_project/static/css/2.9b2a9837.chunk.css"
   },
   {
-    "revision": "f9238e2d1fe430d99428",
-    "url": "/react-caffeSt-app_project/static/css/main.54a751ec.chunk.css"
+    "revision": "0da56cb53a56a325944d",
+    "url": "/react-caffeSt-app_project/static/css/main.4f93a9dc.chunk.css"
   },
   {
-    "revision": "79fa3bc9999f47ae4f4f",
-    "url": "/react-caffeSt-app_project/static/js/2.2f68ad77.chunk.js"
+    "revision": "92777537290e976a8210",
+    "url": "/react-caffeSt-app_project/static/js/2.34a59dbe.chunk.js"
   },
   {
-    "revision": "f9238e2d1fe430d99428",
-    "url": "/react-caffeSt-app_project/static/js/main.3d6f658b.chunk.js"
+    "revision": "0da56cb53a56a325944d",
+    "url": "/react-caffeSt-app_project/static/js/main.64671c2e.chunk.js"
   },
   {
     "revision": "a1e3acaf60dba43130b5",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d2c9e3287e24989bf58eaa92ea1c2e1b",
     "url": "/react-caffeSt-app_project/static/media/banner-3.d2c9e328.jpg"
+  },
+  {
+    "revision": "cb5a7da472a2b1e4be660e1a6e76ae55",
+    "url": "/react-caffeSt-app_project/static/media/borsh-fasol.cb5a7da4.jpg"
   },
   {
     "revision": "fcad699f576718c4f22769f7b1251070",
