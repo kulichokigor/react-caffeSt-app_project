@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0370940bc70d7658a72aeda267df75b7",
+    "revision": "705eb959d36f8e8c5ec6ba0f6fa047e2",
     "url": "/react-caffeSt-app_project/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-caffeSt-app_project/static/css/2.3c1ddb0a.chunk.css"
   },
   {
-    "revision": "3daa270678b4a4857b32",
+    "revision": "178b0860cb9f0db6e59f",
     "url": "/react-caffeSt-app_project/static/css/main.56d6ee71.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-caffeSt-app_project/static/js/2.8b9f77ce.chunk.js"
   },
   {
-    "revision": "3daa270678b4a4857b32",
-    "url": "/react-caffeSt-app_project/static/js/main.300c8504.chunk.js"
+    "revision": "178b0860cb9f0db6e59f",
+    "url": "/react-caffeSt-app_project/static/js/main.a2f41ad5.chunk.js"
   },
   {
     "revision": "a1e3acaf60dba43130b5",
