@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-caffeSt-app_project/static/css/main.af9f68ac.chunk.css",
-    "main.js": "/react-caffeSt-app_project/static/js/main.0ca2a21d.chunk.js",
-    "main.js.map": "/react-caffeSt-app_project/static/js/main.0ca2a21d.chunk.js.map",
+    "main.css": "/react-caffeSt-app_project/static/css/main.ef210f91.chunk.css",
+    "main.js": "/react-caffeSt-app_project/static/js/main.7e204b63.chunk.js",
+    "main.js.map": "/react-caffeSt-app_project/static/js/main.7e204b63.chunk.js.map",
     "runtime~main.js": "/react-caffeSt-app_project/static/js/runtime~main.9ae12ecf.js",
     "runtime~main.js.map": "/react-caffeSt-app_project/static/js/runtime~main.9ae12ecf.js.map",
     "static/css/2.3c1ddb0a.chunk.css": "/react-caffeSt-app_project/static/css/2.3c1ddb0a.chunk.css",
-    "static/js/2.f6c69f47.chunk.js": "/react-caffeSt-app_project/static/js/2.f6c69f47.chunk.js",
-    "static/js/2.f6c69f47.chunk.js.map": "/react-caffeSt-app_project/static/js/2.f6c69f47.chunk.js.map",
+    "static/js/2.f5042a77.chunk.js": "/react-caffeSt-app_project/static/js/2.f5042a77.chunk.js",
+    "static/js/2.f5042a77.chunk.js.map": "/react-caffeSt-app_project/static/js/2.f5042a77.chunk.js.map",
     "index.html": "/react-caffeSt-app_project/index.html",
-    "precache-manifest.720bef3247d7ab072a0660385da05f17.js": "/react-caffeSt-app_project/precache-manifest.720bef3247d7ab072a0660385da05f17.js",
+    "precache-manifest.cda1cb08aede22f58894c25bd0610bce.js": "/react-caffeSt-app_project/precache-manifest.cda1cb08aede22f58894c25bd0610bce.js",
     "service-worker.js": "/react-caffeSt-app_project/service-worker.js",
     "static/css/2.3c1ddb0a.chunk.css.map": "/react-caffeSt-app_project/static/css/2.3c1ddb0a.chunk.css.map",
-    "static/css/main.af9f68ac.chunk.css.map": "/react-caffeSt-app_project/static/css/main.af9f68ac.chunk.css.map",
+    "static/css/main.ef210f91.chunk.css.map": "/react-caffeSt-app_project/static/css/main.ef210f91.chunk.css.map",
     "static/media/banner-1.jpg": "/react-caffeSt-app_project/static/media/banner-1.7d67eeae.jpg",
     "static/media/banner-3.jpg": "/react-caffeSt-app_project/static/media/banner-3.d2c9e328.jpg",
-    "static/media/borsh-fasol.jpg": "/react-caffeSt-app_project/static/media/borsh-fasol.cb5a7da4.jpg",
     "static/media/home-page.css": "/react-caffeSt-app_project/static/media/smothies.4d301b7d.jpg",
-    "static/media/buffet-image2.jpg": "/react-caffeSt-app_project/static/media/buffet-image2.e9c9a193.jpg"
+    "static/media/buffet-image2.jpg": "/react-caffeSt-app_project/static/media/buffet-image2.e9c9a193.jpg",
+    "static/media/test_1.jpg": "/react-caffeSt-app_project/static/media/test_1.6fc2384d.jpg"
   }
 }
